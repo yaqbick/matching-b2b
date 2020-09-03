@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "tinder\\": "src/"
+        }
+    },
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}
